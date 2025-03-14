@@ -1,0 +1,48 @@
+{
+    "SchemaVersion": 1,
+    "ModName": "Reassign Necromancy Of Thay",
+    "Tabs": [
+        {
+            "TabName": "General",
+            "TabId": "general",
+            "Sections": [
+                {
+                    "SectionId": "general_settings",
+                    "SectionName": "Book Reassignment",
+                    "Settings": [
+                        {
+                            "Id": "set_read",
+                            "Name": "Successfully Read (Optional)",
+                            "Type": "checkbox",
+                            "Default": true,
+                            "Description": "Marks book as 'successfully read' on reassignment."
+                        },
+                        { 
+                            "Id": "reassign_to",
+                            "Name": "Reassign To:",
+                            "Type": "enum",
+                            "Default": "Select a character",
+                            "Options": {
+                                "Choices": [
+                                    "Select a character",
+                                    "Host Character",
+                                    "Tav",
+                                    "Karlach",
+                                    "Shadowheart",
+                                    "Astarion",
+                                    "Lae'zel",
+                                    "Jaheira",
+                                    "Gale",
+                                    "Wyll",
+                                    "Halsin",
+                                    "Minsc",
+                                    "Minthara"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

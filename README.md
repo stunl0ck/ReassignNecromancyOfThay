@@ -12,6 +12,8 @@ Reassign **Necromancy of Thay** to a different character, marking it as successf
     - Optionally marks it as **successfully read** to allow progression in the **Search the Cellar** Quest
 - **Danse Macabre Tab:**
     - Allows adding or removing the **Danse Macabre** spell for selected characters.
+- **Tharchiate Blessing Tab:**
+    - Allows adding or removing the **Tharchiate Blessing** passive (Temp HP on Long Rest) for selected characters.
 
 ### ⚠️ Important Notes
 - **Tested in Act 3**:
@@ -41,5 +43,5 @@ Reassign **Necromancy of Thay** to a different character, marking it as successf
 ---
 
 🔹 **Author:** stunl0ck  
-🔹 **Version:** 1.1.0.0  
+🔹 **Version:** 1.2.0.0  
 🔹 **Requires:** BG3SE, MCM  

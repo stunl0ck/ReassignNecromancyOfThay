@@ -78,6 +78,42 @@
                     ]
                 }
             ]
+        },
+        {
+            "TabName": "Tharchiate Blessing",
+            "TabId": "tharchiate_blessing",
+            "Sections": [
+                {
+                    "SectionId": "tharchiate_blessing_settings",
+                    "SectionName": "Tharchiate Codex Blessing",
+                    "Settings": [
+                        { 
+                            "Id": "tharchiate_blessing_character",
+                            "Name": "Target Character:",
+                            "Type": "enum",
+                            "Default": "Select a character",
+                            "Options": {
+                                "Choices": [
+                                    "Select a character",
+                                    "Host Character",
+                                    "Tav",
+                                    "Karlach",
+                                    "Shadowheart",
+                                    "Astarion",
+                                    "Lae'zel",
+                                    "Jaheira",
+                                    "Gale",
+                                    "Wyll",
+                                    "Halsin",
+                                    "Minsc",
+                                    "Minthara"
+                                ]
+                            },
+                            "Description": "Select the character to add or remove the Tharchiate Blessing passive from."
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

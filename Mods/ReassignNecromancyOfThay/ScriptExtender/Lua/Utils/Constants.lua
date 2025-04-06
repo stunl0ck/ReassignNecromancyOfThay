@@ -27,4 +27,7 @@ Constants.FOR_DangerousBook_State_SuccessfullyRead  = "41ab6bfd-e5df-461f-bafd-c
 -- Spells
 Constants.Spell_Danse_Macabre = "Target_CursedTome_WakeTheDead"
 
+-- Statuses (Technical/Granting Passives)
+Constants.Status_Tharchiate_Blessing_Technical = "CURSEDTOME_THARCHIATE_TECHNICAL"
+
 return Constants

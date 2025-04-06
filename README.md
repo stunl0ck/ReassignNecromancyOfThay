@@ -6,9 +6,12 @@ Reassign **Necromancy of Thay** to a different character, marking it as successf
 
 ### 🔄 How It Works  
 - Access the mod via **MCM** in game
-- Temporarily removes **Twisted Binding**  
-- Moves the book to your selected character  
-- Optionally marks it as **successfully read** to allow progression in the **Search the Cellar** Quest  
+- **Book Reassignment Tab:**
+    - Temporarily removes **Twisted Binding**  
+    - Moves the book to your selected character  
+    - Optionally marks it as **successfully read** to allow progression in the **Search the Cellar** Quest
+- **Danse Macabre Tab:**
+    - Allows adding or removing the **Danse Macabre** spell for selected characters.
 
 ### ⚠️ Important Notes
 - **Tested in Act 3**:
@@ -38,5 +41,5 @@ Reassign **Necromancy of Thay** to a different character, marking it as successf
 ---
 
 🔹 **Author:** stunl0ck  
-🔹 **Version:** 1.0.0.0  
+🔹 **Version:** 1.1.0.0  
 🔹 **Requires:** BG3SE, MCM  

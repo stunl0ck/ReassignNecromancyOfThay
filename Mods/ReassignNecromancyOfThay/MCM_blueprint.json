@@ -43,6 +43,41 @@
                     ]
                 }
             ]
+        },
+        {
+            "TabName": "Danse Macabre",
+            "TabId": "danse_macabre",
+            "Sections": [
+                {
+                    "SectionId": "danse_macabre_settings",
+                    "SectionName": "Danse Macabre Spell",
+                    "Settings": [
+                        { 
+                            "Id": "danse_macabre_character",
+                            "Name": "Target Character:",
+                            "Type": "enum",
+                            "Default": "Select a character",
+                            "Options": {
+                                "Choices": [
+                                    "Select a character",
+                                    "Host Character",
+                                    "Tav",
+                                    "Karlach",
+                                    "Shadowheart",
+                                    "Astarion",
+                                    "Lae'zel",
+                                    "Jaheira",
+                                    "Gale",
+                                    "Wyll",
+                                    "Halsin",
+                                    "Minsc",
+                                    "Minthara"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

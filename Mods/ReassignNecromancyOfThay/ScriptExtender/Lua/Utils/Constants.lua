@@ -24,4 +24,7 @@ Constants.FOR_DangerousBook_State_BookOwner = "06022678-24ed-35af-de93-bd91abc02
 Constants.FOR_DangerousBook_State_FailedToRead = "9c622539-5406-4e04-9be6-06ccffe131f5"
 Constants.FOR_DangerousBook_State_SuccessfullyRead  = "41ab6bfd-e5df-461f-bafd-c7c5da1b0a79"
 
+-- Spells
+Constants.Spell_Danse_Macabre = "Target_CursedTome_WakeTheDead"
+
 return Constants

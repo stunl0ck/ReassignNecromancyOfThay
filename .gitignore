@@ -1,3 +1,7 @@
 build.ps1
 .vscode/
 README.txt
+_agent_seed_files/
+
+# Build output
+PAK/

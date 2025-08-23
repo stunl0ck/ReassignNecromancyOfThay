@@ -2,7 +2,7 @@
 
 Reassign **Necromancy of Thay** to a different character, marking it as successfully read. Requires **Mod Configuration Menu (MCM)**
 
-![alt text](Screenshots/{F155EC3A-98AC-4C9B-B3FC-A3EE3BA0004F}.png)
+![alt text](Screenshots/{2550EBBB-FFAB-49F6-B72B-D14864F7B4A4}.png)
 
 ### 🔄 How It Works  
 - Access the mod via **MCM** in game
@@ -14,6 +14,10 @@ Reassign **Necromancy of Thay** to a different character, marking it as successf
     - Allows adding or removing the **Danse Macabre** spell for selected characters.
 - **Tharchiate Blessing Tab:**
     - Allows adding or removing the **Tharchiate Blessing** passive (Temp HP on Long Rest) for selected characters.
+- **Forbidden Knowledge Tab:**
+    - Allows adding or removing the **Forbidden Knowledge** passive (+1 bonus to Wisdom Saving Throws and Ability Checks) for selected characters.
+- **Cheeky Quasit Tab:**
+    - Allows adding or removing the **Find Familiar: Cheeky Quasit** spell (special version of Find Familiar: Quasit that summons the quasit named Shovel) for selected characters.
 
 ### ⚠️ Important Notes
 - **Tested in Act 3**:
@@ -43,5 +47,5 @@ Reassign **Necromancy of Thay** to a different character, marking it as successf
 ---
 
 🔹 **Author:** stunl0ck  
-🔹 **Version:** 1.2.0.0  
+🔹 **Version:** 1.3.0.0  
 🔹 **Requires:** BG3SE, MCM  

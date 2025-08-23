@@ -114,6 +114,78 @@
                     ]
                 }
             ]
+        },
+        {
+            "TabName": "Forbidden Knowledge",
+            "TabId": "forbidden_knowledge",
+            "Sections": [
+                {
+                    "SectionId": "forbidden_knowledge_settings",
+                    "SectionName": "Forbidden Knowledge Passive",
+                    "Settings": [
+                        { 
+                            "Id": "forbidden_knowledge_character",
+                            "Name": "Target Character:",
+                            "Type": "enum",
+                            "Default": "Select a character",
+                            "Options": {
+                                "Choices": [
+                                    "Select a character",
+                                    "Host Character",
+                                    "Tav",
+                                    "Karlach",
+                                    "Shadowheart",
+                                    "Astarion",
+                                    "Lae'zel",
+                                    "Jaheira",
+                                    "Gale",
+                                    "Wyll",
+                                    "Halsin",
+                                    "Minsc",
+                                    "Minthara"
+                                ]
+                            },
+                            "Description": "Select the character to add or remove the Forbidden Knowledge passive from."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "TabName": "Cheeky Quasit",
+            "TabId": "cheeky_quasit",
+            "Sections": [
+                {
+                    "SectionId": "cheeky_quasit_settings",
+                    "SectionName": "Find Familiar: Cheeky Quasit",
+                    "Settings": [
+                        { 
+                            "Id": "cheeky_quasit_character",
+                            "Name": "Target Character:",
+                            "Type": "enum",
+                            "Default": "Select a character",
+                            "Options": {
+                                "Choices": [
+                                    "Select a character",
+                                    "Host Character",
+                                    "Tav",
+                                    "Karlach",
+                                    "Shadowheart",
+                                    "Astarion",
+                                    "Lae'zel",
+                                    "Jaheira",
+                                    "Gale",
+                                    "Wyll",
+                                    "Halsin",
+                                    "Minsc",
+                                    "Minthara"
+                                ]
+                            },
+                            "Description": "Select the character to add or remove the Find Familiar: Cheeky Quasit spell from."
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

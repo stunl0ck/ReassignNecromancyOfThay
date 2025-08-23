@@ -26,6 +26,10 @@ Constants.FOR_DangerousBook_State_SuccessfullyRead  = "41ab6bfd-e5df-461f-bafd-c
 
 -- Spells
 Constants.Spell_Danse_Macabre = "Target_CursedTome_WakeTheDead"
+Constants.Spell_Cheeky_Quasit = "Target_FOR_ThayanCellar_SummonQuasit"
+
+-- Passives
+Constants.Passive_Forbidden_Knowledge = "CTY_NecromancyOfThay_ForbiddenKnowledge_Passive"
 
 -- Statuses (Technical/Granting Passives)
 Constants.Status_Tharchiate_Blessing_Technical = "CURSEDTOME_THARCHIATE_TECHNICAL"
